@@ -5,10 +5,10 @@ function troca(cor) {
 
 //array contendo o caminho das imagens 
 let imagens = [
-  './assets/img/1p.jpg',
-  './assets/img/2p.jpg',
-  './assets/img/3p.jpg',
-  './assets/img/4p.jpg'
+  '../assets/img/1p.jpg',
+  '../assets/img/2p.jpg',
+  '../assets/img/3p.jpg',
+  '../assets/img/4p.jpg'
 ];
 let tempo = 4000;
 
