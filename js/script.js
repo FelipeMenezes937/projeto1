@@ -1,7 +1,9 @@
+//funcao para trocar a cor de fundo
 function troca(cor) {
   document.body.style.background = cor;
 }
 
+//array contendo o caminho das imagens 
 let imagens = [
   './assets/img/1p.jpg',
   './assets/img/2p.jpg',
@@ -10,6 +12,7 @@ let imagens = [
 ];
 let tempo = 4000;
 
+//funcao para o slide show, vulgo carrossel
 function slideShow() {
   let i = 0;
   setInterval(function () {

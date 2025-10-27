@@ -1,8 +1,8 @@
 .img img {
   width: 300px;
   height: 200px;
-  object-fit: cover; /* corta o excesso e mantém proporção */
-  border-radius: 8px; /* opcional, dá um acabamento suave */
+  object-fit: cover; /* fiz no chatgpt, sem paciencia pra css */
+  border-radius: 8px; 
   display: block;
   margin: 0 auto;
 }
